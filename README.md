@@ -3,10 +3,9 @@
 <!--
 **Valdera/Valdera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 📫 How to reach me: f.valdera@yahoo.co.id
+- 📫 How to reach me: fauzan.valdera@gmail.com
 - 💼 Work Experience: Machine Learning Dev and Back End Dev
-- 👩‍💻 Languages: Javascript, Python, and Golang
-- ✨ Currently Learning Clojure
+- 👩‍💻 Languages: Go, Python, and Js
 
 ### Where to find me 🐱‍👤
 <p><a href="https://github.com/Valdera" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
