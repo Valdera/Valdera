@@ -4,7 +4,7 @@
 **Valdera/Valdera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 📫 **How to reach me:** fauzan.valdera@gmail.com
-- 💼 **Work:** Mostly Backend and ML, sometimes Frontend, Robotics, Games.
+- 💼 **Work:** Mostly Backend
 - 👩‍💻 **Languages:** *(Proficient)* Go, Python, and Js. *(Familiar)* Java, C++, Elixir, Clojure.
 
 ### Where to find me 🐱‍👤
