@@ -5,7 +5,7 @@
 -->
 - 📫 **How to reach me:** fauzan.valdera@gmail.com
 - 💼 **Work:** Mostly Backend
-- 👩‍💻 **Languages:** *(Proficient)* Go, Python, and Js. *(Familiar)* Java, C++, Elixir, Clojure.
+- 👩‍💻 **Languages:** *(Proficient)* Go, Python, and Typescript. *(Familiar)* Java, Elixir, Clojure.
 
 ### Where to find me 🐱‍👤
 <p><a href="https://github.com/Valdera" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
